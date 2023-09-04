@@ -1,6 +1,6 @@
 html{
     font-size: 10px;
-    background-color: url(http://i.imgur.com/b9r5sEL) bottom center;
+    background: url(b9r5sEL.jpeg) bottom center;
     background-size: cover;
 }
 body,html{
@@ -33,6 +33,11 @@ body,html{
     border-color: #ffc600;
     box-shadow:0 0 1rem #ffc600;
 }
+kbd{
+    display: block;
+    font-size: 4rem;
+}
+
 .sound{
     font-size: 1.2rem;
     text-transform: uppercase;
